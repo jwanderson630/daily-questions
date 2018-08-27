@@ -1,0 +1,16 @@
+.react-datepicker {
+	border: none;
+	box-shadow: 1px 1px 20px 5px rgba(0, 0, 0, 0.3);
+}
+
+.react-datepicker__triangle {
+	display: none;
+}
+
+.react-datepicker__header {
+	border: none;
+}
+
+.react-datepicker__day--selected {
+	background-color: #3498db;
+}
